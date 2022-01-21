@@ -748,7 +748,7 @@ a:active {
 }
 
 .section-bg-alt {
-    background: #0b0c22;
+    background: #16161a;
 }
 
 .theme-light .section-bg-alt {
@@ -3559,17 +3559,17 @@ select:focus {
 }
 
 .banner.banner-particle {
-    background: url(assets/images/particle-left.png) top left no-repeat, url(assets/images/particle-right.png) top right no-repeat, #08091b;
+    background: url(assets/images/particle-left.png) top left no-repeat, url(assets/images/particle-right.png) top right no-repeat, #16161a;
     background-size: auto, auto, auto;
 }
 
 .banner.banner-curb {
-    background: url(assets/images/header-bottom.png) bottom center no-repeat, #0b0c22;
+    background: url(assets/images/header-bottom.png) bottom center no-repeat, #16161a;
     background-size: 100%;
 }
 
 .banner.banner-curb.banner-particle {
-    background: url(assets/images/header-bottom.png) bottom center no-repeat, url(assets/images/particle-left.png) top left no-repeat, url(assets/images/particle-right.png) top right no-repeat, #0b0c22;
+    background: url(assets/images/header-bottom.png) bottom center no-repeat, url(assets/images/particle-left.png) top left no-repeat, url(assets/images/particle-right.png) top right no-repeat, #16161a;
     background-size: 100%, auto, auto, auto;
 }
 
@@ -3771,7 +3771,7 @@ select:focus {
         margin-left: 15px;
     }
     .ico-dark .site-header .navbar.is-transparent {
-        background: #0b0c22;
+        background: #16161a;
     }
     .io-azure .site-header .navbar.is-transparent {
         background: transparent;
@@ -3819,7 +3819,7 @@ select:focus {
         height: 220px;
         bottom: 0;
         z-index: -1;
-        background-image: linear-gradient(to bottom, #0b0c22 0%, #1b1e4b 100%);
+        background-image: linear-gradient(to bottom, #16161a 0%, #1b1e4b 100%);
         transition: all .4s;
     }
     .io-azure .navbar-collapse:after,
@@ -4834,7 +4834,7 @@ select:focus {
 }
 
 .section-bg .countdown-box {
-    background: #0b0c22;
+    background: #16161a;
 }
 
 .section-bg-alt .countdown-box {
@@ -5658,7 +5658,7 @@ select:focus {
 }
 
 .section-bg .team-member {
-    background: #0b0c22;
+    background: #16161a;
 }
 
 .section-bg-alt .team-member {
@@ -6649,8 +6649,8 @@ select:focus {
 .inline-form .input-round,
 .mc4wp-form .input-round {
     color: #fff;
-    background: #0b0c22;
-    border: 1px solid #0b0c22;
+    background: #16161a;
+    border: 1px solid #16161a;
     border-radius: 27px;
     height: 56px;
     width: 100%;
@@ -8234,7 +8234,7 @@ select:focus {
 
 .comment-item>div {
     padding: 30px 40px 20px 30px;
-    border-bottom: 1px solid #0b0c22;
+    border-bottom: 1px solid #16161a;
 }
 
 .comment-list ul {
@@ -8859,7 +8859,7 @@ p.logged-in-as {
 .page-error {
     position: relative;
     height: 100vh;
-    background: no-repeat 50% 50%, #0b0c22;
+    background: no-repeat 50% 50%, #16161a;
     background-size: cover;
     overflow: hidden;
 }
