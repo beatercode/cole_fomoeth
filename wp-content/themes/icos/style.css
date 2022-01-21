@@ -6847,17 +6847,6 @@ select:focus {
     border-color: #d2636d;
 }
 
-.not(.io-zinnia) .footer-subscription .btn.btn-plane,
-.not(.io-zinnia) .footer-widget .btn.btn-plane {
-    position: absolute;
-    top: 5px;
-    right: -50px;
-    padding: 0 10px;
-    min-width: 110px;
-    background: #16a4fd;
-    border-radius: 23px;
-}
-
 .footer-widget .btn.btn-plane:before {
     border-radius: 23px;
 }
@@ -8907,7 +8896,6 @@ p.logged-in-as {
     font-weight: 700;
     margin-bottom: 17px;
     background: -webkit-linear-gradient(#0e7dee, #093b76);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     opacity: .5;
 }
@@ -8915,7 +8903,6 @@ p.logged-in-as {
 .theme-light .error-text-large,
 .io-azure .error-text-large {
     background: -webkit-linear-gradient(#107ef4, #114fc2);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
