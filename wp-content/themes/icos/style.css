@@ -224,7 +224,6 @@ section.vc_row {
 
 body {
     font-family: "Poppins", sans-serif;
-    color: #3c3c3c;
     font-size: 15px;
     line-height: 1.86;
     font-weight: 300;
@@ -233,12 +232,8 @@ body {
     position: relative;
 }
 
-.vc_row {
-    background-image: linear-gradient(to bottom, #1a8205 0%, #0c4005 70%) !important;
-}
-
 body {
-    background: #1a5203;
+    background: #00cfa9;
     color: #fff;
 }
 
